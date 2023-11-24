@@ -8,5 +8,6 @@ You can visit the website [here](https://nohagimlilmod.com/).
 ### Tools used:
 - Next.js 14.0.0
 - AWS S3 (for the storage of the images for the tests)
-----------\n
+--------------
+<br>
 The source code isn't public due to the client requesting to keep the data private for now.
