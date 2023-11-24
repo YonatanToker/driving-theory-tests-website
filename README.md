@@ -1,6 +1,6 @@
-# [nohagimlilmod.com](https://nohagimlilmod.com/){:target="_blank"}
+# [nohagimlilmod.com](https://nohagimlilmod.com/)
 A driving theory tests &amp; driving lessons services website in Hebrew, made for a client.
-You can visit the website [here](https://nohagimlilmod.com/){:target="_blank"}.
+You can visit the website [here](https://nohagimlilmod.com/).
 ## Homepage &amp; finished test:
 ![homepage](https://github.com/YonatanToker/nohagimlilmod/assets/116793943/fc028b33-0787-4028-94fb-826c731106ee)
 
